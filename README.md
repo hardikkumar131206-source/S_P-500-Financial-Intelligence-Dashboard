@@ -149,13 +149,12 @@ Shows where each stock currently sits within its annual price range. Identifies 
 - Deploy as an interactive dashboard using Plotly Dash or Streamlit
 
 ---
-
 ##  Author
 
 **Hardik Kumar**
 📧 hardikumar131206@gmail.com
-🔗 [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hardik-kumar-7631a832b)
-🐙 [github.com/your-username](https://github.com/hardikkumar131206-source)
+🔗 [linkedin.com/in](https://www.linkedin.com/in/hardik-kumar-7631a832b)
+🐙 [github.com](https://github.com/hardikkumar131206-source)
 
 ---
 
